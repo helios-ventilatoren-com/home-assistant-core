@@ -11,6 +11,10 @@ data/
 # Translations
 homeassistant/components/*/translations
 
+!custom_components/helios/translations/
+!custom_components/helios/translations/en.json
+!custom_components/helios/translations/de.json
+
 # Hide sublime text stuff
 *.sublime-project
 *.sublime-workspace
